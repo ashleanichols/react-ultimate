@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/react-ultimate is built on the following main stack:
+
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
@@ -21,11 +22,13 @@ ashleanichols/react-ultimate is built on the following main stack:
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/react-ultimate is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
@@ -45,14 +48,15 @@ ashleanichols/react-ultimate is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/react-ultimate](https://github.com/ashleanichols/react-ultimate)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|70<br/>Tools used|11/09/23 <br/>Report generated|
+|70<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -277,7 +281,7 @@ Full tech stack [here](/techstack.md)
 |[less-loader](https://www.npmjs.com/less-loader)|v4.1.0|04/04/17|scabbiaza |MIT|N/A|
 |[lodash.debounce](https://www.npmjs.com/lodash.debounce)|v3.1.1|06/29/15|Ivan Kleshnin |MIT|N/A|
 |[lodash.throttle](https://www.npmjs.com/lodash.throttle)|v3.0.4|06/29/15|Ivan Kleshnin |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.3.18|01/29/15|Ivan Kleshnin |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[](https://github.com/advisories/GHSA-xf5p-87ch-gxw2) (Moderate)|
+|[marked](https://www.npmjs.com/marked)|v0.3.18|01/29/15|Ivan Kleshnin |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-xf5p-87ch-gxw2) (Moderate)|
 |[mkdirp](https://www.npmjs.com/mkdirp)|v0.5.1|04/03/15|Ivan Kleshnin |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.15.2|10/02/15|Ivan Kleshnin |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2017-18214](https://github.com/advisories/GHSA-446m-mv8f-q348) (High)|
 |[morgan](https://www.npmjs.com/morgan)|v1.9.0|05/12/15|Ivan Kleshnin |MIT|[CVE-2019-5413](https://github.com/advisories/GHSA-gwg9-rgvj-4h5j) (Critical)|
@@ -297,4 +301,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
